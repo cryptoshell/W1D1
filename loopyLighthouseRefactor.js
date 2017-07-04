@@ -12,19 +12,3 @@ for (var num = 100; num <= 200; num++) {
     console.log(num);
   }
 }
-
-// Lighthouse
-// 101cd ..
-// Loopy
-// 103
-// Lighthouse
-// Loopy
-// 106
-// 107
-// LoopyLighthouse
-// 109
-// 110
-// Loopy
-// Lighthouse
-// 113
-// Loopy
